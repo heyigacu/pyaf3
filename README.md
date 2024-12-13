@@ -15,3 +15,8 @@ pip install . --no-deps
 python run_alphafold_test.py 
 ```
 ## 
+
+
+https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/GSH
+
+
